@@ -6,7 +6,7 @@ Mistvale Tea Co. is a premium tea e-commerce website designed around a calm, ear
 
 ## 🌐 Live Website
 
-**Live Demo:** [Visit Mistvale Tea Co.](YOUR_LIVE_WEBSITE_URL)
+**Live Demo:** [Visit Mistvale Tea Co.](https://tarunkaushik00.github.io/mistvale-tea-co/)
 
 
 ## 📖 About the Project
